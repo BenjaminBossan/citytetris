@@ -1,0 +1,13 @@
+[tool.mypy]
+strict = true
+exclude = "citytetris/tests.py"
+
+[[tool.mypy-networkx]]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+addopts = "-v --cov=citytetris --cov-report=term-missing"
+testpaths = ["tests/tests.py"]
+
+[tool.black]
+skip_string_normalization = true

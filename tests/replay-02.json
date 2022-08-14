@@ -1,0 +1,29 @@
+{
+  "meta_info": {
+    "date": "2022-08-23T00:05:04.158293",
+    "version": "0.0.1",
+    "system": "#140-Ubuntu SMP Thu Aug 4 02:23:37 UTC 2022"
+  },
+  "game_info": {
+    "size": "normal",
+    "speed": "normal",
+    "seed": "456"
+  },
+  "score": {
+    "full_rows": 0,
+    "longest_road": 7,
+    "l_j_communities": 1,
+    "t_community": 2
+  },
+  "moves": [
+    "IdddRddddddddddddd",
+    "Iddddddddddddddd",
+    "Odrdrrddddddddddd",
+    "LdRdrdrddddddd",
+    "SdrddRdRdddldd",
+    "Jddrdddddd",
+    "Zddddldd",
+    "TdRddd",
+    "TdR"
+  ]
+}

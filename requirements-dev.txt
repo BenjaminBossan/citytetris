@@ -1,0 +1,6 @@
+black>=22.6.0
+libpython-static=3.10.4
+mypy>=0.971
+nuitka>=1.0.5
+pytest>=7.1.2
+pytest-cov>=3.0.0
