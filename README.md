@@ -1,5 +1,7 @@
 # City Tetris
 
+![boxart](./assets/00771.png)
+
 ## Rules
 
 City Tetris looks similar to Tetris on the surface, but there are two major differences. First of all, blocks never disappear, even if you have a full row. Second, you get points for building specific structures in your city.
