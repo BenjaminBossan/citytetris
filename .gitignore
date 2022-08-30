@@ -26,3 +26,7 @@ replays/
 main.bin
 main.build/
 main.dist/
+*.exe
+
+*.jpg
+*.png
